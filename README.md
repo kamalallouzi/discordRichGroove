@@ -10,7 +10,7 @@
 
 * Download the exe from the Releases tab
 * Music must be in the "Music" folder of Windows, if not see below
-* If you want the music to be in a different folder then go into the code on line 19, change the "\Music" to "\YourFolder". The code will have to recompiled with the command "pyinstaller .\discordRichGroove.py --onefile" after installing pyinstaller or you could just run the code natively and leave it running.
+* If you want the music to be in a different folder then go into the code on line 19, change the "\Music" to "\YourFolder". The code will have to be recompiled with the command "pyinstaller .\discordRichGroove.py --onefile" after installing pyinstaller or you could just run the code natively and leave it running.
 
 ## Known bugs or future improvements:
 
