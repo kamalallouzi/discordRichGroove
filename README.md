@@ -27,6 +27,6 @@
 # Known bugs or future improvements:
 
 * ~~The startup for the utility is a little long from some limitations with how I am grabbing the file~~ Fixed and file cut down by compiling in a fresh enviroment
-* ~~A GUI that can be minimized into the system tray instead of having a terminal window always open
+* ~~A GUI that can be minimized into the system tray instead of having a terminal window always open~~ Added
 * The length of the song is calculated with system time + length of song found in the meta data. If the music is paused or scrubbed then the timer will not update. This is a current limitation to as I do not know a way to pull that information from a UWP app like Groove Music currently.
 * ~~If nothing pops up in the terminal after a while, try playing a song till it displays something. If nothing is displayed, restart the app and try again. The open_files() function or the print function can act up sometimes.~~ kinda fixed but still bugs 1% of the time
