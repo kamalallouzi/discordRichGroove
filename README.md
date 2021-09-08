@@ -2,7 +2,7 @@
 
 * Groove Music Rich Presence will pull the metadata from the now playing file
 * There was another one written in c#, while that one works I created a python version with a similar but also different approach 
-* This version also has a coutdown for the length of the song
+* This version also has a countdown for the length of the song
 * No Admin Privaleges are required here
 * The terminal prompt will display the current song and artist playing
 * discordRichGroove.py and the release both are command line versions that still work
